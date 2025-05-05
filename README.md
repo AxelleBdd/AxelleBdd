@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AxelleBdd
+- 👀 I’m interested in cybersecurity, backend.
+- 🌱 I’m currently learning JS, Python, Java, PHP and more.
+- 📫 You can reach me on LinkedIn or by mail.
+- ⚡ Fun fact: I'm in a carrer change from laboratory technician to fullStack developer.
